@@ -20,7 +20,7 @@
 const swagat = {
   name: "Swagat Patil",
   role: "Full-Stack Developer & IoT Researcher",
-  education: "B.Tech IT @ VESIT Mumbai | CGPA: 9.65 🔥",
+  education: "B.Tech IT @ VESIT Mumbai | CGPA: 9.30 🔥",
   currentlyAt: "Interning @ Electrolytre — analytics dashboard",
   hackathonTeam: "Bit2Bramha 💡",
   research: "Published @ IJARSET 2024 — IoT Smart Waste System",

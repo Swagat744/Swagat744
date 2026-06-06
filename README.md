@@ -70,9 +70,9 @@ hackathon_team: Bit2Bramha
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Swagat744&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swagat744&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Swagat744&theme=tokyonight&hide_border=true" height="165"/>
+<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swagat744&theme=tokyonight" />
 
 </div>
 

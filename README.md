@@ -36,38 +36,40 @@ const swagat = {
 <table>
   <tr>
     <td width="50%">
-      <h3>🗑️ Mr. Bin — Smart Waste System</h3>
-      <p>IoT-based smart waste management · Published in <strong>IJARSET 2024</strong></p>
-      <p><code>Arduino</code> <code>ESP8266</code> <code>GPS</code> <code>Python</code> <code>MySQL</code></p>
+      <h3>♻️ WasteSmart / HostelEcoTrack</h3>
+      <p>Smart hostel waste & food mgmt · IoT bin monitoring · SDG 11 & 12 · APK published</p>
+      <p><code>React Native</code> <code>Next.js</code> <code>ESP32</code> <code>Firebase</code></p>
     </td>
     <td width="50%">
       <h3>📊 Atomberg Analytics Dashboard</h3>
-      <p>7,188 PCB repair records · ML scrap prediction · Full-stack</p>
+      <p>7,188 PCB repair records · ML scrap prediction · Full-stack internship project</p>
       <p><code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>FastAPI</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>♻️ WasteSmart / HostelEcoTrack</h3>
-      <p>Smart hostel waste & food mgmt · SDG 11 & 12 · APK published</p>
-      <p><code>React Native</code> <code>Next.js</code> <code>ESP32</code> <code>Firebase</code></p>
-    </td>
-    <td width="50%">
       <h3>🧠 AANUSHASAN</h3>
       <p>AI study planner with Sanskrit gamification · Deployed on Vercel</p>
       <p><code>React 18</code> <code>Node.js</code> <code>MongoDB Atlas</code></p>
     </td>
+    <td width="50%">
+      <h3>🚨 CrisisLink</h3>
+      <p>Hotel emergency response system · Gemini AI · Google Hackathon</p>
+      <p><code>React</code> <code>Firebase</code> <code>Gemini AI</code> <code>Google Places API</code></p>
+    </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🍽️ AnnaSetu (FEED)</h3>
-      <p>3-portal food distribution platform · Syrus 2026 Hackathon</p>
-      <p><code>HTML/CSS/JS</code> <code>Firebase</code> <code>Admin Panel</code></p>
+      <h3>📄 Mr. Bin — IJARSET 2024</h3>
+      <p>Published IoT research · Smart waste system with GPS & auto lid lock</p>
+      <p><code>Arduino</code> <code>ESP8266</code> <code>GPS</code> <code>Python</code> <code>MySQL</code></p>
     </td>
     <td width="50%">
-      <h3>🏥 Shaurya Clinic App</h3>
-      <p>Full clinic management system · Deployed & live</p>
-      <p><code>Next.js 14</code> <code>Firebase</code> <code>Google Auth</code></p>
+      <h3>🏥 Shaurya Physiotherapy Clinic</h3>
+      <p>Full clinic management system · Google Auth · Real-time Firestore · Deployed</p>
+      <p><code>Next.js 14</code> <code>Firebase</code> <code>TypeScript</code> <code>Tailwind</code></p>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>

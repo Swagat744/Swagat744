@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:swagatnpatil744@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=swagatnpatil744@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Swagat744&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 

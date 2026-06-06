@@ -4,9 +4,9 @@
 
 **Full-Stack Developer · IoT Researcher · Hackathon Builder**
 
-*B.Tech IT @ VESIT Mumbai · CGPA 9.65 · Published @ IJARSET 2024*
+*B.Tech IT @ VESIT Mumbai · CGPA 9.30 · Published @ IJARSET 2024*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swagatpatil-it/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swagat744)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d2025.swagat.patil@ves.ac.in)
 
@@ -82,14 +82,6 @@ hackathon_team: Bit2Bramha
 - 🥇 **Genesis Hackathon** — Top 6 of 60–80 teams
 - 📄 **IJARSET 2024** — Published IoT research paper (Mr. Bin)
 - 🎓 **Diploma** — 93.49% distinction
-- 💡 **Syrus 2026** — Hackathon finalist (AnnaSetu / FEED)
-
----
-
-## 📺 Content & Side Projects
-
-- 🎬 Running **FlashLearn** — YouTube Shorts channel (75+ subscribers) in mystery facts & motivation niche
-- ✍️ Notes, journals, and continuous learner
 
 ---
 

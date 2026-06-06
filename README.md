@@ -70,9 +70,9 @@ hackathon_team: Bit2Bramha
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Swagat744&theme=tokyonight&hide_border=true" height="165"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swagat744&theme=blueberry" />
 <br/><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swagat744&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swagat744&theme=blueberry"/>
 
 </div>
 

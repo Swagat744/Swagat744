@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+IT+%40+VESIT+Mumbai+%F0%9F%8E%93;Published+Researcher+%40+IJARSET+2024+%F0%9F%93%84;Interning+%40+Electrolytre+%F0%9F%9A%80;Hackathon+Builder+%7C+Team+Bit2Bramha+%F0%9F%92%A1;Building+real+things+that+matter+%E2%9A%A1)](https://github.com/Swagat744)
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/swagatpatil-it/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://mail.google.com/mail/?view=cm&to=swagatnpatil744@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Swagat744&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
